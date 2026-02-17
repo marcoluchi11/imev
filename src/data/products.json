@@ -1,0 +1,1780 @@
+[
+  {
+    "ref": "10000",
+    "name": "Almendras Peladas",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 26000
+  },
+  {
+    "ref": "10001",
+    "name": "Avellanas Peladas",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 42900
+  },
+  {
+    "ref": "10002",
+    "name": "Castañas de Cajú",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 23400
+  },
+  {
+    "ref": "10003",
+    "name": "Maní con Cáscara (Boliviano)",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 6800
+  },
+  {
+    "ref": "10004",
+    "name": "Maní con Cáscara (Boliviano)",
+    "weight": "2,5 kg",
+    "category": "Frutas Secas",
+    "price": 16000
+  },
+  {
+    "ref": "10005",
+    "name": "Mani crudo",
+    "weight": "500 grs",
+    "category": "Frutas Secas",
+    "price": 4600
+  },
+  {
+    "ref": "10006",
+    "name": "Mi",
+    "weight": "Frutos Secos x 1 kg",
+    "category": "Frutas Secas",
+    "price": 13000
+  },
+  {
+    "ref": "10007",
+    "name": "Mi",
+    "weight": "Frutos Secos Premium x 1 kg",
+    "category": "Frutas Secas",
+    "price": 18200
+  },
+  {
+    "ref": "10008",
+    "name": "Nuez con Cáscara Cal 34/36",
+    "weight": "5 kg",
+    "category": "Frutas Secas",
+    "price": 11700
+  },
+  {
+    "ref": "10009",
+    "name": "Nuez cuarto",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 0
+  },
+  {
+    "ref": "10010",
+    "name": "Nuez Mariposa Blanca (Criolla)",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 0
+  },
+  {
+    "ref": "10011",
+    "name": "Nuez Mariposa Extra Ligth (Chandler)",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 24700
+  },
+  {
+    "ref": "10012",
+    "name": "Pistachos con Cáscara Tostados y Salados",
+    "weight": "1 kg",
+    "category": "Frutas Secas",
+    "price": 58500
+  },
+  {
+    "ref": "20000",
+    "name": "Arándanos Rojos",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 16900
+  },
+  {
+    "ref": "20001",
+    "name": "Ciruelas con Carozo",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 10700
+  },
+  {
+    "ref": "20002",
+    "name": "Ciruelas Presidente",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 0
+  },
+  {
+    "ref": "20003",
+    "name": "Ciruelas Sin Carozo",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 10700
+  },
+  {
+    "ref": "20004",
+    "name": "Ciruelas Sin Carozo",
+    "weight": "5 kg",
+    "category": "Frutas Desecadas",
+    "price": 49400
+  },
+  {
+    "ref": "20005",
+    "name": "Dátiles de Egipto",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 11700
+  },
+  {
+    "ref": "20006",
+    "name": "Higos Negros",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 16900
+  },
+  {
+    "ref": "20007",
+    "name": "Medallones de Durazno Medianos",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 19500
+  },
+  {
+    "ref": "20008",
+    "name": "Mi",
+    "weight": "Compota x 1kg (Ciruela, Durazno, Pera)",
+    "category": "Frutas Desecadas",
+    "price": 15600
+  },
+  {
+    "ref": "20009",
+    "name": "Mi",
+    "weight": "Tropical de Frutas x 1 kg",
+    "category": "Frutas Desecadas",
+    "price": 13000
+  },
+  {
+    "ref": "20010",
+    "name": "Pasas de Uvas Grandes s/s",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 8100
+  },
+  {
+    "ref": "20011",
+    "name": "Pasas de Uvas Rubias",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 11700
+  },
+  {
+    "ref": "20012",
+    "name": "Pasas de Uvas Sult s/s",
+    "weight": "10 kg",
+    "category": "Frutas Desecadas",
+    "price": 66300
+  },
+  {
+    "ref": "20013",
+    "name": "Pasas de Uvas Sult s/s",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 7200
+  },
+  {
+    "ref": "20014",
+    "name": "Peras Medianas",
+    "weight": "1 kg",
+    "category": "Frutas Desecadas",
+    "price": 19500
+  },
+  {
+    "ref": "30000",
+    "name": "Banana Chips en Rodajas",
+    "weight": "1 kg",
+    "category": "Frutas Azucaradas y Glaseadas",
+    "price": 18200
+  },
+  {
+    "ref": "30001",
+    "name": "Fruta Glaseada",
+    "weight": "1 kg",
+    "category": "Frutas Azucaradas y Glaseadas",
+    "price": 14300
+  },
+  {
+    "ref": "30002",
+    "name": "Fruta Nevada",
+    "weight": "500 Gr",
+    "category": "Frutas Azucaradas y Glaseadas",
+    "price": 4600
+  },
+  {
+    "ref": "30003",
+    "name": "Papaya en Cubos",
+    "weight": "1 kg",
+    "category": "Frutas Azucaradas y Glaseadas",
+    "price": 29900
+  },
+  {
+    "ref": "40000",
+    "name": "Aceite de Coco Neutro",
+    "weight": "220 ML",
+    "category": "Aceite y Salsa",
+    "price": 6000
+  },
+  {
+    "ref": "40001",
+    "name": "Aceite de Oliva",
+    "weight": "500 CC",
+    "category": "Aceite y Salsa",
+    "price": 18200
+  },
+  {
+    "ref": "40002",
+    "name": "Aceite de oliva",
+    "weight": "3 lts",
+    "category": "Aceite y Salsa",
+    "price": 91000
+  },
+  {
+    "ref": "40003",
+    "name": "Salsa de Soja",
+    "weight": "500 CC",
+    "category": "Aceite y Salsa",
+    "price": 4300
+  },
+  {
+    "ref": "50001",
+    "name": "Berenjenas en escabeche",
+    "weight": "360g.",
+    "category": "Productos La Carmelina",
+    "price": 9100
+  },
+  {
+    "ref": "50002",
+    "name": "Ajies agridulces en conserva",
+    "weight": "360g.",
+    "category": "Productos La Carmelina",
+    "price": 9100
+  },
+  {
+    "ref": "50003",
+    "name": "Verduras surtidas en escabeche",
+    "weight": "360g.",
+    "category": "Productos La Carmelina",
+    "price": 9100
+  },
+  {
+    "ref": "50004",
+    "name": "Pimientos en aceite",
+    "weight": "360g.",
+    "category": "Productos La Carmelina",
+    "price": 9100
+  },
+  {
+    "ref": "50005",
+    "name": "Cebollitas en conserva",
+    "weight": "360g.",
+    "category": "Productos La Carmelina",
+    "price": 9100
+  },
+  {
+    "ref": "50006",
+    "name": "Salsa de tomate y cebolla",
+    "weight": "360 grs",
+    "category": "Productos La Carmelina",
+    "price": 0
+  },
+  {
+    "ref": "60000",
+    "name": "Copos de Maíz Azucarados",
+    "weight": "4 kg",
+    "category": "Cereales en Copos / Inflados",
+    "price": 22900
+  },
+  {
+    "ref": "60001",
+    "name": "Copos de Maíz",
+    "weight": "2 kg",
+    "category": "Cereales en Copos / Inflados",
+    "price": 10900
+  },
+  {
+    "ref": "60002",
+    "name": "Arroz Inflado",
+    "weight": "500 Kg",
+    "category": "Cereales en Copos / Inflados",
+    "price": 3600
+  },
+  {
+    "ref": "60003",
+    "name": "Crocante Salvado de Trigo",
+    "weight": "1 kg",
+    "category": "Cereales en Copos / Inflados",
+    "price": 5200
+  },
+  {
+    "ref": "60004",
+    "name": "Maiz Inflado Azucarado",
+    "weight": "1 Kg",
+    "category": "Cereales en Copos / Inflados",
+    "price": 7000
+  },
+  {
+    "ref": "60005",
+    "name": "Quinoa Inflada (Pop)",
+    "weight": "400 Gr",
+    "category": "Cereales en Copos / Inflados",
+    "price": 4200
+  },
+  {
+    "ref": "70000",
+    "name": "Almohaditas de Avellana",
+    "weight": "500g",
+    "category": "Lasfor S.R.L",
+    "price": 5200
+  },
+  {
+    "ref": "70001",
+    "name": "Almohaditas de Chocolate",
+    "weight": "500g",
+    "category": "Lasfor S.R.L",
+    "price": 5200
+  },
+  {
+    "ref": "70002",
+    "name": "Almohaditas de Frutilla",
+    "weight": "500g",
+    "category": "Lasfor S.R.L",
+    "price": 5200
+  },
+  {
+    "ref": "70003",
+    "name": "Almohaditas de Limón 500g",
+    "weight": "",
+    "category": "Lasfor S.R.L",
+    "price": 5200
+  },
+  {
+    "ref": "70004",
+    "name": "Almohaditas de Dos Salvados",
+    "weight": "1,5 kg",
+    "category": "Lasfor S.R.L",
+    "price": 9600
+  },
+  {
+    "ref": "70005",
+    "name": "Aritos de Avena y Miel",
+    "weight": "2 kg",
+    "category": "Lasfor S.R.L",
+    "price": 14600
+  },
+  {
+    "ref": "70006",
+    "name": "Aritos Frutados",
+    "weight": "2 kg",
+    "category": "Lasfor S.R.L",
+    "price": 14300
+  },
+  {
+    "ref": "70007",
+    "name": "Bastoncitos de Salvado",
+    "weight": "2,5 kg",
+    "category": "Lasfor S.R.L",
+    "price": 14800
+  },
+  {
+    "ref": "70008",
+    "name": "Bolitas con Chocolate",
+    "weight": "2 kg",
+    "category": "Lasfor S.R.L",
+    "price": 15600
+  },
+  {
+    "ref": "70009",
+    "name": "Granola",
+    "weight": "1,5 kg",
+    "category": "Lasfor S.R.L",
+    "price": 15600
+  },
+  {
+    "ref": "70010",
+    "name": "Mi",
+    "weight": "Cereales x 1 kg",
+    "category": "Lasfor S.R.L",
+    "price": 7800
+  },
+  {
+    "ref": "80000",
+    "name": "Ají Molido",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 7200
+  },
+  {
+    "ref": "80001",
+    "name": "Ajo en Polvo",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80002",
+    "name": "Ajo Granulado",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 8500
+  },
+  {
+    "ref": "80003",
+    "name": "Albahaca Deshidratada",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 6900
+  },
+  {
+    "ref": "80004",
+    "name": "Canela Molida",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 8300
+  },
+  {
+    "ref": "80005",
+    "name": "Cebollas en Escamas",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 7200
+  },
+  {
+    "ref": "80006",
+    "name": "Chimichurri",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80007",
+    "name": "Comino Molido",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 7800
+  },
+  {
+    "ref": "80008",
+    "name": "Condimento para Arroz",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 6200
+  },
+  {
+    "ref": "80009",
+    "name": "Condimento para Hamburguesas",
+    "weight": "1 kg",
+    "category": "Especias",
+    "price": 10000
+  },
+  {
+    "ref": "80010",
+    "name": "Condimento para Pizza",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 5900
+  },
+  {
+    "ref": "80011",
+    "name": "Curcuma",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 7800
+  },
+  {
+    "ref": "80012",
+    "name": "Curry",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 5500
+  },
+  {
+    "ref": "80013",
+    "name": "Especias Surtidas",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80014",
+    "name": "Estragón",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 5200
+  },
+  {
+    "ref": "80015",
+    "name": "Jengibre en Polvo",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 9100
+  },
+  {
+    "ref": "80016",
+    "name": "Nuez Moscada Molida",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 13000
+  },
+  {
+    "ref": "80017",
+    "name": "Orégano",
+    "weight": "400 Gr",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80018",
+    "name": "Paprika",
+    "weight": "500 g",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80019",
+    "name": "Perejil",
+    "weight": "300 Gr",
+    "category": "Especias",
+    "price": 9600
+  },
+  {
+    "ref": "80020",
+    "name": "Pimentón Ahumado",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 6500
+  },
+  {
+    "ref": "80021",
+    "name": "Pimentón Extra",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 6000
+  },
+  {
+    "ref": "80022",
+    "name": "Pimienta Blanca en Grano",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 32500
+  },
+  {
+    "ref": "80023",
+    "name": "Pimienta Blanca Molida",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 26000
+  },
+  {
+    "ref": "80024",
+    "name": "Pimienta Negra en Grano",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 22100
+  },
+  {
+    "ref": "80025",
+    "name": "Pimienta Negra Molida",
+    "weight": "500 gr",
+    "category": "Especias",
+    "price": 22100
+  },
+  {
+    "ref": "80026",
+    "name": "Provenzal",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 8300
+  },
+  {
+    "ref": "80027",
+    "name": "Romero",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 9800
+  },
+  {
+    "ref": "80028",
+    "name": "Sal del Himalaya",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 3600
+  },
+  {
+    "ref": "80029",
+    "name": "Sal Marina Fina",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 2600
+  },
+  {
+    "ref": "80030",
+    "name": "Sal Marina Gruesa",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 2600
+  },
+  {
+    "ref": "80031",
+    "name": "Tomillo",
+    "weight": "500 Gr",
+    "category": "Especias",
+    "price": 9900
+  },
+  {
+    "ref": "90000",
+    "name": "Azúcar Impalpable",
+    "weight": "1 Kg",
+    "category": "Productos de Repostería",
+    "price": 3300
+  },
+  {
+    "ref": "90001",
+    "name": "Azúcar Impalpable",
+    "weight": "5 kg",
+    "category": "Productos de Repostería",
+    "price": 14300
+  },
+  {
+    "ref": "90002",
+    "name": "Azúcar Integral de Caña",
+    "weight": "1 kg (Mascabo)",
+    "category": "Productos de Repostería",
+    "price": 3500
+  },
+  {
+    "ref": "90003",
+    "name": "Azúcar Negra",
+    "weight": "5 kg",
+    "category": "Productos de Repostería",
+    "price": 11700
+  },
+  {
+    "ref": "90004",
+    "name": "Azúcar Negra",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 3100
+  },
+  {
+    "ref": "90005",
+    "name": "Azúcar Rubia",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 3100
+  },
+  {
+    "ref": "90006",
+    "name": "Bicarbonato de Sodio",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 7000
+  },
+  {
+    "ref": "90007",
+    "name": "Cacao Amargo",
+    "weight": "500 gr",
+    "category": "Productos de Repostería",
+    "price": 12400
+  },
+  {
+    "ref": "90008",
+    "name": "Coco Rallado",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 15600
+  },
+  {
+    "ref": "90009",
+    "name": "Coco en Escamas",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 19500
+  },
+  {
+    "ref": "90010",
+    "name": "Crocante de Maní y Almendras",
+    "weight": "1 kg",
+    "category": "Productos de Repostería",
+    "price": 9800
+  },
+  {
+    "ref": "90011",
+    "name": "Esencia de Vainilla",
+    "weight": "120 cc",
+    "category": "Productos de Repostería",
+    "price": 1300
+  },
+  {
+    "ref": "90012",
+    "name": "Fécula de Maíz",
+    "weight": "1 Kg",
+    "category": "Productos de Repostería",
+    "price": 4300
+  },
+  {
+    "ref": "90013",
+    "name": "Fécula de Maíz",
+    "weight": "5 Kg",
+    "category": "Productos de Repostería",
+    "price": 14300
+  },
+  {
+    "ref": "90014",
+    "name": "Fécula de Mandioca",
+    "weight": "1 Kg",
+    "category": "Productos de Repostería",
+    "price": 2900
+  },
+  {
+    "ref": "90015",
+    "name": "Grana Multicolor",
+    "weight": "1 Kg",
+    "category": "Productos de Repostería",
+    "price": 5200
+  },
+  {
+    "ref": "90016",
+    "name": "Polvo para Hornear",
+    "weight": "1 Kg",
+    "category": "Productos de Repostería",
+    "price": 8800
+  },
+  {
+    "ref": "90017",
+    "name": "Edulcorante Stevia",
+    "weight": "120 cc",
+    "category": "Productos de Repostería",
+    "price": 5200
+  },
+  {
+    "ref": "90018",
+    "name": "Edulcorante Stevia",
+    "weight": "50 Sobres",
+    "category": "Productos de Repostería",
+    "price": 2900
+  },
+  {
+    "ref": "100000",
+    "name": "Almendras Con Chocolate",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 18200
+  },
+  {
+    "ref": "100001",
+    "name": "Banana con Chocolate",
+    "weight": "500 Grs (Tipo Dolca)",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 18200
+  },
+  {
+    "ref": "100002",
+    "name": "Cereal con Chocolate",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 15600
+  },
+  {
+    "ref": "100003",
+    "name": "Garrapiñada de Maní",
+    "weight": "900 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 4300
+  },
+  {
+    "ref": "100004",
+    "name": "Huesito de Chocolate",
+    "weight": "900 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 5600
+  },
+  {
+    "ref": "100005",
+    "name": "Huesito Frutal",
+    "weight": "900 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 5600
+  },
+  {
+    "ref": "100006",
+    "name": "Lentejas de Chocolate",
+    "weight": "500 grs (Tipo Rocklets)",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 9100
+  },
+  {
+    "ref": "100007",
+    "name": "Maní con Chocolate (Blanco y Negro)",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 9100
+  },
+  {
+    "ref": "100008",
+    "name": "Maní Japones",
+    "weight": "900 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 5900
+  },
+  {
+    "ref": "100009",
+    "name": "Naranja con Chocolate",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 0
+  },
+  {
+    "ref": "100010",
+    "name": "Nuez con Chocolate",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 18200
+  },
+  {
+    "ref": "100011",
+    "name": "Uvas con Chocolate",
+    "weight": "500 grs",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 11700
+  },
+  {
+    "ref": "100012",
+    "name": "Gotitas de Chocolate Blanco",
+    "weight": "500 Gr",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 6500
+  },
+  {
+    "ref": "100013",
+    "name": "Gotitas de Chocolate Negro",
+    "weight": "500 Gr",
+    "category": "Productos Con Chocolate y Confites",
+    "price": 6500
+  },
+  {
+    "ref": "200000",
+    "name": "Maní Repelado Salado",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 6100
+  },
+  {
+    "ref": "200001",
+    "name": "Maní Repelado Sin Sal",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 6100
+  },
+  {
+    "ref": "200002",
+    "name": "Maní Saborizado Jamón",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200003",
+    "name": "Maní Saborizado Natural",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200004",
+    "name": "Maní Saborizado Pizza",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200005",
+    "name": "Maní Saborizado Provenzal",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200006",
+    "name": "Maní Saborizado Queso",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200007",
+    "name": "Maní Saborizado Salame",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "200008",
+    "name": "Palitos Salados",
+    "weight": "1 kg",
+    "category": "Maní y Palitos Zyma",
+    "price": 5700
+  },
+  {
+    "ref": "300000",
+    "name": "Bolitas de Maíz Color",
+    "weight": "1 kg",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 6500
+  },
+  {
+    "ref": "300001",
+    "name": "Chalitas Saladas",
+    "weight": "400 Gr",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 7500
+  },
+  {
+    "ref": "300002",
+    "name": "Chizitos de Maíz y Queso",
+    "weight": "1 kg",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 6500
+  },
+  {
+    "ref": "300003",
+    "name": "Conitos",
+    "weight": "500 Gr",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 7400
+  },
+  {
+    "ref": "300004",
+    "name": "Maíz Frito y Salado",
+    "weight": "500 Gr",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 10400
+  },
+  {
+    "ref": "300005",
+    "name": "Mi",
+    "weight": "salado (cervecero)",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 13000
+  },
+  {
+    "ref": "300006",
+    "name": "Papas Cheddar",
+    "weight": "500 Gr",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 0
+  },
+  {
+    "ref": "300007",
+    "name": "Papas Fritas Baston",
+    "weight": "1 Kg",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 13000
+  },
+  {
+    "ref": "300008",
+    "name": "Papas Fritas Clasicas",
+    "weight": "1 Kg",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 12000
+  },
+  {
+    "ref": "300009",
+    "name": "Papas Fritas Sin Sal",
+    "weight": "500 Gr",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 0
+  },
+  {
+    "ref": "300010",
+    "name": "Tubitos",
+    "weight": "1 Kg",
+    "category": "Productos Copetín Zyma / Criskey",
+    "price": 6500
+  },
+  {
+    "ref": "400000",
+    "name": "Ciruelas sin Carozo",
+    "weight": "250 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 3700
+  },
+  {
+    "ref": "400001",
+    "name": "Maní Saborizado Jamón",
+    "weight": "150 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 2100
+  },
+  {
+    "ref": "400002",
+    "name": "Maní Saborizado Pizza",
+    "weight": "150 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 2100
+  },
+  {
+    "ref": "400003",
+    "name": "Maní Saborizado Queso",
+    "weight": "150 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 2100
+  },
+  {
+    "ref": "400004",
+    "name": "Mi",
+    "weight": "Semillas x 180 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 2300
+  },
+  {
+    "ref": "400005",
+    "name": "Mi",
+    "weight": "Tropical de Frutas x 300 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 3900
+  },
+  {
+    "ref": "400006",
+    "name": "Nuez Mariposa Blanca",
+    "weight": "90 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 0
+  },
+  {
+    "ref": "400007",
+    "name": "Pasas de Uva S/S",
+    "weight": "150 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 1700
+  },
+  {
+    "ref": "400008",
+    "name": "Mi",
+    "weight": "Frutos secos x 300 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 3900
+  },
+  {
+    "ref": "400009",
+    "name": "Mi",
+    "weight": "Frutos secos premiun x 300 Gr",
+    "category": "Productos Envasados Zyma",
+    "price": 5900
+  },
+  {
+    "ref": "500000",
+    "name": "Amapola",
+    "weight": "250 Gr",
+    "category": "Semillas",
+    "price": 6500
+  },
+  {
+    "ref": "500001",
+    "name": "Amaranto",
+    "weight": "250 Gr",
+    "category": "Semillas",
+    "price": 2900
+  },
+  {
+    "ref": "500002",
+    "name": "Chía",
+    "weight": "500 Gr",
+    "category": "Semillas",
+    "price": 5500
+  },
+  {
+    "ref": "500003",
+    "name": "Girasol Pelado",
+    "weight": "500 Gr",
+    "category": "Semillas",
+    "price": 6000
+  },
+  {
+    "ref": "500004",
+    "name": "Lino",
+    "weight": "1 kg",
+    "category": "Semillas",
+    "price": 3100
+  },
+  {
+    "ref": "500005",
+    "name": "Mijo Pelado",
+    "weight": "1 kg",
+    "category": "Semillas",
+    "price": 2600
+  },
+  {
+    "ref": "500006",
+    "name": "Mi",
+    "weight": "Semillas x 1 kg",
+    "category": "Semillas",
+    "price": 5700
+  },
+  {
+    "ref": "500007",
+    "name": "Quinoa",
+    "weight": "500 Gr",
+    "category": "Semillas",
+    "price": 7200
+  },
+  {
+    "ref": "500008",
+    "name": "Sésamo Blanco",
+    "weight": "500 Gr",
+    "category": "Semillas",
+    "price": 10400
+  },
+  {
+    "ref": "500009",
+    "name": "Sésamo Integral",
+    "weight": "1 Kg",
+    "category": "Semillas",
+    "price": 5500
+  },
+  {
+    "ref": "500010",
+    "name": "Sésamo Negro",
+    "weight": "500 Gr",
+    "category": "Semillas",
+    "price": 9800
+  },
+  {
+    "ref": "500011",
+    "name": "Zapallo",
+    "weight": "250 Gr",
+    "category": "Semillas",
+    "price": 4600
+  },
+  {
+    "ref": "600000",
+    "name": "Arroz Integral Blue Bonnet",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 2500
+  },
+  {
+    "ref": "600001",
+    "name": "Arroz Integral Yamani",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3800
+  },
+  {
+    "ref": "600002",
+    "name": "Arroz koshihikari",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3400
+  },
+  {
+    "ref": "600003",
+    "name": "Arroz Negro",
+    "weight": "500 grs",
+    "category": "Legumbres",
+    "price": 2900
+  },
+  {
+    "ref": "600004",
+    "name": "Arveja Entera",
+    "weight": "1 Kg",
+    "category": "Legumbres",
+    "price": 1600
+  },
+  {
+    "ref": "600005",
+    "name": "Cebada Perlada",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 2300
+  },
+  {
+    "ref": "600006",
+    "name": "Garbanzos",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3300
+  },
+  {
+    "ref": "600007",
+    "name": "Lentejas",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3800
+  },
+  {
+    "ref": "600008",
+    "name": "Lentejas turcas",
+    "weight": "500 Gr",
+    "category": "Legumbres",
+    "price": 3100
+  },
+  {
+    "ref": "600009",
+    "name": "Lentejón",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 4800
+  },
+  {
+    "ref": "600010",
+    "name": "Lupines",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 7200
+  },
+  {
+    "ref": "600011",
+    "name": "Maíz Pisingallo",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 1600
+  },
+  {
+    "ref": "600012",
+    "name": "Porotos Aduki",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 4300
+  },
+  {
+    "ref": "600013",
+    "name": "Porotos Alubia",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 5900
+  },
+  {
+    "ref": "600014",
+    "name": "Porotos Colorados",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3600
+  },
+  {
+    "ref": "600015",
+    "name": "Porotos Mung",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 3300
+  },
+  {
+    "ref": "600016",
+    "name": "Porotos Negros",
+    "weight": "1 Kg",
+    "category": "Legumbres",
+    "price": 3900
+  },
+  {
+    "ref": "600017",
+    "name": "Porotos Pallares",
+    "weight": "500 Gr",
+    "category": "Legumbres",
+    "price": 5200
+  },
+  {
+    "ref": "600018",
+    "name": "Porotos Soja",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 1400
+  },
+  {
+    "ref": "600019",
+    "name": "Trigo Sarraceno",
+    "weight": "1 kg",
+    "category": "Legumbres",
+    "price": 6200
+  },
+  {
+    "ref": "700000",
+    "name": "Hongos Secos de Pino",
+    "weight": "500 Gr",
+    "category": "Deshidratados",
+    "price": 16900
+  },
+  {
+    "ref": "700001",
+    "name": "Tomates Secos",
+    "weight": "1 Kg",
+    "category": "Deshidratados",
+    "price": 26000
+  },
+  {
+    "ref": "700002",
+    "name": "Yerba Antiácida",
+    "weight": "1 Kg (Con Palo)",
+    "category": "Deshidratados",
+    "price": 7200
+  },
+  {
+    "ref": "700003",
+    "name": "Yerba Antiácida",
+    "weight": "1 Kg (Sin Palo - Premium)",
+    "category": "Deshidratados",
+    "price": 7800
+  },
+  {
+    "ref": "800000",
+    "name": "Avena Instantanea",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 3000
+  },
+  {
+    "ref": "800001",
+    "name": "Germen de Trigo",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 3100
+  },
+  {
+    "ref": "800002",
+    "name": "Gluten Puro",
+    "weight": "500 Gr",
+    "category": "Harinas",
+    "price": 5900
+  },
+  {
+    "ref": "800003",
+    "name": "Harina Algarroba",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 7800
+  },
+  {
+    "ref": "800004",
+    "name": "Harina de Almendras",
+    "weight": "500 Gr",
+    "category": "Harinas",
+    "price": 4600
+  },
+  {
+    "ref": "800005",
+    "name": "Harina de Arroz",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 2300
+  },
+  {
+    "ref": "800006",
+    "name": "Harina de Arveja",
+    "weight": "1 kg",
+    "category": "Harinas",
+    "price": 2100
+  },
+  {
+    "ref": "800007",
+    "name": "Harina de Avena",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 3000
+  },
+  {
+    "ref": "800008",
+    "name": "Harina de Centeno",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 4300
+  },
+  {
+    "ref": "800009",
+    "name": "Harina de Chía",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 10400
+  },
+  {
+    "ref": "800010",
+    "name": "Harina de Coco",
+    "weight": "500 g",
+    "category": "Harinas",
+    "price": 4600
+  },
+  {
+    "ref": "800011",
+    "name": "Harina de Garbanzo",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 3900
+  },
+  {
+    "ref": "800012",
+    "name": "Harina de Lentejas",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 2300
+  },
+  {
+    "ref": "800013",
+    "name": "Harina de Lino",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 4700
+  },
+  {
+    "ref": "800014",
+    "name": "Harina de Sésamo",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 6500
+  },
+  {
+    "ref": "800015",
+    "name": "Harina de Trigo Sarraceno",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 7800
+  },
+  {
+    "ref": "800016",
+    "name": "Harina Integral",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 2500
+  },
+  {
+    "ref": "800017",
+    "name": "Harina Paraguaya",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 2600
+  },
+  {
+    "ref": "800018",
+    "name": "Salvado de Avena",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 3000
+  },
+  {
+    "ref": "800019",
+    "name": "Salvado de Trigo",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 1000
+  },
+  {
+    "ref": "800020",
+    "name": "Semolin",
+    "weight": "1 Kg",
+    "category": "Harinas",
+    "price": 1600
+  },
+  {
+    "ref": "800021",
+    "name": "Soja Texturizada",
+    "weight": "1Kg",
+    "category": "Harinas",
+    "price": 2300
+  },
+  {
+    "ref": "800022",
+    "name": "Trigo Burgoll",
+    "weight": "1,5 Kg",
+    "category": "Harinas",
+    "price": 2900
+  },
+  {
+    "ref": "900000",
+    "name": "Aceitunas Negras N° 0",
+    "weight": "1 Kg",
+    "category": "Otros",
+    "price": 16000
+  },
+  {
+    "ref": "900001",
+    "name": "Aceitunas Verdes N° 0",
+    "weight": "1 Kg",
+    "category": "Otros",
+    "price": 13900
+  },
+  {
+    "ref": "900002",
+    "name": "Aceitunas Verdes N° 00",
+    "weight": "1 Kg",
+    "category": "Otros",
+    "price": 15100
+  },
+  {
+    "ref": "900003",
+    "name": "Barra Quinoa y Chocolate",
+    "weight": "20 gr",
+    "category": "Otros",
+    "price": 1000
+  },
+  {
+    "ref": "900005",
+    "name": "Jugos Dietéticos C/Stevia",
+    "weight": "1 L",
+    "category": "Otros",
+    "price": 0
+  },
+  {
+    "ref": "900006",
+    "name": "Leche de Almendras \"vrink\"",
+    "weight": "1 L",
+    "category": "Otros",
+    "price": 0
+  },
+  {
+    "ref": "900007",
+    "name": "Maca Molida \"Kalpa\"",
+    "weight": "500 Gr",
+    "category": "Otros",
+    "price": 2900
+  },
+  {
+    "ref": "900008",
+    "name": "Miel Pura \"La Catalina\"",
+    "weight": "1 Kg",
+    "category": "Otros",
+    "price": 8600
+  },
+  {
+    "ref": "900009",
+    "name": "Miel Pura \"La Catalina\"",
+    "weight": "250 Gr",
+    "category": "Otros",
+    "price": 2900
+  },
+  {
+    "ref": "900010",
+    "name": "Miel Pura \"La Catalina\"",
+    "weight": "500 Gr",
+    "category": "Otros",
+    "price": 4700
+  },
+  {
+    "ref": "900011",
+    "name": "Pasta Maní",
+    "weight": "380 Gr",
+    "category": "Otros",
+    "price": 3800
+  },
+  {
+    "ref": "900012",
+    "name": "Mermelada Artesanal Cabaña Micó \"El Bolsón\"",
+    "weight": "",
+    "category": "Otros",
+    "price": 7700
+  },
+  {
+    "ref": "1000000",
+    "name": "Almohaditas de Arroz",
+    "weight": "500 Gr",
+    "category": "Productos Patagonia Grains",
+    "price": 4700
+  },
+  {
+    "ref": "1000001",
+    "name": "Granola Crocante",
+    "weight": "500 Gr",
+    "category": "Productos Patagonia Grains",
+    "price": 6100
+  },
+  {
+    "ref": "1000002",
+    "name": "Granola Crocante con Almendras",
+    "weight": "250 Gr",
+    "category": "Productos Patagonia Grains",
+    "price": 3900
+  },
+  {
+    "ref": "1000003",
+    "name": "Granola Crocante con Almendras sin azucar",
+    "weight": "250 Gr",
+    "category": "Productos Patagonia Grains",
+    "price": 4200
+  },
+  {
+    "ref": "2000000",
+    "name": "Amapola",
+    "weight": "280 Gr",
+    "category": "Galletitas Secas",
+    "price": 1700
+  },
+  {
+    "ref": "2000001",
+    "name": "Fiorela - Mi",
+    "weight": "Semillas x 160 Gr",
+    "category": "Galletitas Secas",
+    "price": 0
+  },
+  {
+    "ref": "2000002",
+    "name": "Lino",
+    "weight": "280 Gr",
+    "category": "Galletitas Secas",
+    "price": 1700
+  },
+  {
+    "ref": "2000003",
+    "name": "Marineras",
+    "weight": "350 Gr",
+    "category": "Galletitas Secas",
+    "price": 1600
+  },
+  {
+    "ref": "2000004",
+    "name": "Salvado Sin Sal",
+    "weight": "300 Gr",
+    "category": "Galletitas Secas",
+    "price": 1500
+  },
+  {
+    "ref": "2000005",
+    "name": "Salvado",
+    "weight": "300 Gr",
+    "category": "Galletitas Secas",
+    "price": 1500
+  },
+  {
+    "ref": "2000006",
+    "name": "Sesamo",
+    "weight": "280 Gr",
+    "category": "Galletitas Secas",
+    "price": 1700
+  },
+  {
+    "ref": "2000007",
+    "name": "Sin Sal Ligth",
+    "weight": "500 Gr",
+    "category": "Galletitas Secas",
+    "price": 0
+  },
+  {
+    "ref": "2000008",
+    "name": "Sin Sal",
+    "weight": "400 Gr",
+    "category": "Galletitas Secas",
+    "price": 1700
+  },
+  {
+    "ref": "3000000",
+    "name": "Efe",
+    "weight": "450 Gr",
+    "category": "Galletitas Dulces",
+    "price": 2500
+  },
+  {
+    "ref": "3000001",
+    "name": "Fiorela - Dulce",
+    "weight": "250 gr",
+    "category": "Galletitas Dulces",
+    "price": 1800
+  },
+  {
+    "ref": "3000002",
+    "name": "Maria",
+    "weight": "300 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1400
+  },
+  {
+    "ref": "3000003",
+    "name": "Anillos de Limón",
+    "weight": "350 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1600
+  },
+  {
+    "ref": "3000004",
+    "name": "Medallón Azucarados",
+    "weight": "350 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1600
+  },
+  {
+    "ref": "3000005",
+    "name": "Medallón con Chips de Chocolate",
+    "weight": "350 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1600
+  },
+  {
+    "ref": "3000006",
+    "name": "Medallón Marmolado",
+    "weight": "350 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1600
+  },
+  {
+    "ref": "3000007",
+    "name": "Ricitos",
+    "weight": "350 Gr",
+    "category": "Galletitas Dulces",
+    "price": 1600
+  },
+  {
+    "ref": "4000000",
+    "name": "Grisines Ligth Sin Sal",
+    "weight": "160 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1900
+  },
+  {
+    "ref": "4000001",
+    "name": "Grisines Ligth",
+    "weight": "160 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1900
+  },
+  {
+    "ref": "4000002",
+    "name": "Grisines Tradicionales",
+    "weight": "170 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1900
+  },
+  {
+    "ref": "4000003",
+    "name": "Pan Rallado",
+    "weight": "250 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1000
+  },
+  {
+    "ref": "4000004",
+    "name": "Tostadas Dulces Gluten",
+    "weight": "220 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1600
+  },
+  {
+    "ref": "4000005",
+    "name": "Tostadas Mesa Gluten",
+    "weight": "220 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1600
+  },
+  {
+    "ref": "4000006",
+    "name": "Tostadas Salvado Gluten",
+    "weight": "220 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1600
+  },
+  {
+    "ref": "4000007",
+    "name": "Tostadas S/Sal Gluten",
+    "weight": "220 Gr",
+    "category": "Panificadora Sarmiento",
+    "price": 1600
+  }
+]
