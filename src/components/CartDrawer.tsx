@@ -41,7 +41,7 @@ export default function CartDrawer({ isOpen, onClose }: CartDrawerProps) {
             </div>
           ) : (
             items.map((item) => (
-              <CartItem key={item.product.ref} item={item} />
+              <CartItem key={item.id} item={item} />
             ))
           )}
         </div>

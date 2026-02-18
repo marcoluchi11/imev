@@ -21,6 +21,7 @@ export async function POST(request: NextRequest) {
     }
 
     const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+    const isLocalhost = siteUrl.includes("localhost");
 
     const preference = await createPreferenceClient().create({
       body: {
@@ -35,8 +36,9 @@ export async function POST(request: NextRequest) {
           failure: `${siteUrl}/carrito?status=failure`,
           pending: `${siteUrl}/carrito?status=pending`,
         },
-        auto_return: "approved",
-        notification_url: `${siteUrl}/api/mercadopago/webhook`,
+        // auto_return requiere una URL pública (no funciona con localhost)
+        ...(!isLocalhost && { auto_return: "approved" }),
+        ...(!isLocalhost && { notification_url: `${siteUrl}/api/mercadopago/webhook` }),
       },
     });
 

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Nut } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -10,11 +10,16 @@ export default function Hero() {
       </div>
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
         <div className="max-w-2xl">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-            IMEV
-            <br />
-            <span className="text-primary-light">Frutos Secos</span>
-          </h1>
+          <div className="flex items-center gap-4 mb-6">
+            <div className="bg-white/15 rounded-2xl p-3">
+              <Nut className="w-12 h-12 md:w-16 md:h-16 text-white" />
+            </div>
+            <h1 className="text-4xl md:text-6xl font-bold leading-tight">
+              IMEV
+              <br />
+              <span className="text-primary-light">Frutos Secos</span>
+            </h1>
+          </div>
           <p className="text-lg md:text-xl text-white/90 mb-8">
             Frutos secos, especias y más desde Armstrong, Santa Fe. Calidad y
             variedad al mejor precio.

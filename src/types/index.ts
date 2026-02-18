@@ -7,7 +7,9 @@ export interface Product {
 }
 
 export interface CartItem {
+  id: string; // "${ref}-${selectedWeight}" para granel, "${ref}" para productos envasados
   product: Product;
+  selectedWeight?: number; // en gramos (250, 500, 750, 1000, 1500, 2000...)
   quantity: number;
 }
 

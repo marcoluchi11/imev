@@ -43,15 +43,15 @@
   },
   {
     "ref": "10006",
-    "name": "Mi",
-    "weight": "Frutos Secos x 1 kg",
+    "name": "Mix de Frutos Secos",
+    "weight": "1 kg",
     "category": "Frutas Secas",
     "price": 13000
   },
   {
     "ref": "10007",
-    "name": "Mi",
-    "weight": "Frutos Secos Premium x 1 kg",
+    "name": "Mix de Frutos Secos Premium",
+    "weight": "1 kg",
     "category": "Frutas Secas",
     "price": 18200
   },
