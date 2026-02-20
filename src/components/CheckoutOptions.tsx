@@ -50,10 +50,9 @@ export default function CheckoutOptions() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           items: items.map((item) => ({
-            title: `${item.product.name} ${item.product.weight}`,
+            productRef: item.product.ref,
+            selectedWeight: item.selectedWeight,
             quantity: item.quantity,
-            unit_price: item.product.price,
-            currency_id: "ARS",
           })),
         }),
       });
@@ -61,6 +60,18 @@ export default function CheckoutOptions() {
       const data = await response.json();
 
       if (data.init_point) {
+        const allowedHosts = ["www.mercadopago.com", "www.mercadopago.com.ar"];
+        let redirectUrl: URL;
+        try {
+          redirectUrl = new URL(data.init_point);
+        } catch {
+          setMpError("URL de pago inválida. Intentá de nuevo más tarde.");
+          return;
+        }
+        if (redirectUrl.protocol !== "https:" || !allowedHosts.includes(redirectUrl.hostname)) {
+          setMpError("URL de pago inválida. Intentá de nuevo más tarde.");
+          return;
+        }
         window.location.href = data.init_point;
       } else {
         setMpError(data.error || "No se pudo crear el pago. Verificá la configuración de MercadoPago.");
